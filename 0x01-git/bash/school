@@ -1,7 +1,12 @@
 <<<<<<< HEAD
-echo "The school is open"
-:wq
+<<<<<<< HEAD
+
+
 
 =======
 echo "The school is open!"
+>>>>>>> update_script
+=======
+echo "The school is opening!"
+
 >>>>>>> update_script
